@@ -5,4 +5,17 @@ int main() {
     printf("Nhap vao ten : ");
     scanf("%s", &name);
     printf("Hello %s", name);
+    printf("Hello world");
+    printf("Hello world");
+    printf("Hello world");
+    printf("Hello world");
+    printf("Hello world");
+    printf("Hello world");
+    printf("Hello world");
+    printf("Hello world");
+    printf("Hello world");
+    printf("Hello world");
+    printf("Hello world");
+    printf("Hello world");
+
 }
