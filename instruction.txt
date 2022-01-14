@@ -1,0 +1,4 @@
+bay gio tui se cai git
+Git là gì?
+thì git là phần mềm quản lí sourcecode, nó sẽ lưu các phiên bản của file
+còn github là nơi lưu file, tưởng tượng nó như là cái thư mục trên google drive á
